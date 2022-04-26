@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Food_snatcher/[Ll]ibrary/
+Food_snatcher/[Tt]emp/
+Food_snatcher/[Oo]bj/
+Food_snatcher/[Bb]uild/
+Food_snatcher/[Bb]uilds/
+Food_snatcher/[Ll]ogs/
+Food_snatcher/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
@@ -61,3 +61,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+Food_snatcher/UserSettings/
